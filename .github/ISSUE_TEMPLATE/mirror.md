@@ -1,5 +1,3 @@
-ssue模板
-cat mirror.md
 =====================================================
 ---
 name: hub-mirror issue template
